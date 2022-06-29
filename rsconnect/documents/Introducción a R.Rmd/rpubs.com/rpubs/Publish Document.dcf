@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/650319/100d3b52fdd3422d955e5ef2705b6fc7
+bundleId: https://api.rpubs.com/api/v1/document/650319/100d3b52fdd3422d955e5ef2705b6fc7
+url: http://rpubs.com/acatania/650319
+when: 1597790215.67217
